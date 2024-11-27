@@ -1,8 +1,8 @@
-**#Enhanced EV Charging Optimization Framework**
+**Enhanced EV Charging Optimization Framework**
 
 This repository contains a comprehensive framework for optimizing energy allocation at EV charging stations over a 24-hour horizon. The framework uses machine learning models, time series forecasting, and optimization algorithms to maximize revenue, promote renewable energy usage, and ensure grid stability.
 
-**#Features**
+**Features**
 
 **Data Preprocessing:** Handles missing values, feature engineering, and lag feature creation for temporal dependencies.
 
